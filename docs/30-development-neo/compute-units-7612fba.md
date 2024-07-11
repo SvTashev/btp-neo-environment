@@ -109,7 +109,7 @@ Premium Plus edition
 </td>
 <td valign="top">
 
-*prem-plus* 
+*premium_plus* 
 
 </td>
 </tr>
